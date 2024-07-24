@@ -1,1 +1,2 @@
-kn,hbkj,cdnkl,sdcguujbvmkjtakakkfvbrksl ikwhujfsghjwvsdgcv  yghc fcd
+Java Class Attributes
+In the previous chapter, we used the term "variable" for x in the example (as shown below). It is actually an attribute of the class. Or you could say that class attributes are variables within a class:
